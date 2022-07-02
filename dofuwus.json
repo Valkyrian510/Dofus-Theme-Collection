@@ -1,9 +1,12 @@
-[     {         "author" : "Valkyrian",
+[     {         
+         "author" : "Valkyrian",
          "name" : "Dofuwus",
          "keyWords" : "theme egirl pink", 
-        "version" : "1.0.0",
+         "version" : "1.0.0",
          "dofusVersion" : "2.63", 
-        "description" : "Révelle le girly qui sommeille en toi !",
+         "description" : "Révelle le girly qui sommeille en toi !",
          "url" : "https://github.com/Valkyrian510/Dofus-Theme-Collection/blob/main/dofuwus.zip?raw=true",
          "previewUrl" : "DofuwusPreview.png",
-         "creationDate" : "23/06/2022",         "modificationDate" : "02/07/2022"     } ]
+         "creationDate" : "23/06/2022",         
+         "modificationDate" : "02/07/2022"     
+} ]
